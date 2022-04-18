@@ -33,7 +33,7 @@
    flex-direction: column;
    padding: 23px 24px;
    height: 100vh;
-   overflow: scroll;
+   overflow: auto;
 }
 
 .menu__header {
