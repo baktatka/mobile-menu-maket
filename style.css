@@ -33,6 +33,7 @@
    flex-direction: column;
    margin: 23px 24px;
    height: 100vh;
+   overflow: scroll;
 }
 
 .menu__header {
