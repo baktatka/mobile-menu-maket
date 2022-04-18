@@ -31,7 +31,7 @@
 .menu__body {
    display: flex;
    flex-direction: column;
-   margin: 23px 24px;
+   padding: 23px 24px;
    height: 100vh;
    overflow: scroll;
 }
